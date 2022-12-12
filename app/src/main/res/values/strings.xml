@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Toko Warmindo</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string-array name="mie">
+        <item>Indomie Goreng</item>
+        <item>Indomie Rendang</item>
+        <item>Indomie Soto</item>
+        <item>Indomie Ayam Bawang</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.4</item>
+        <item>4.9</item>
+        <item>4.6</item>
+        <item>4.7</item>
+    </string-array>
+    <string-array name="harga">
+        <item>Rp. 3.500</item>
+        <item>Rp. 3.500</item>
+        <item>Rp. 3.500</item>
+        <item>Rp. 3.500</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. Mie Goreng Rasa Original</item>
+        <item>Rp. Mie Goreng Rasa Rendang</item>
+        <item>Rp. Mie Kuah Rasa Rendang</item>
+        <item>Rp. Mie Kuah Rasa Rendang</item>
+    </string-array>
+</resources>

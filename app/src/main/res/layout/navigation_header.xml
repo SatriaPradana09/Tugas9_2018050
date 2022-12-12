@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="176dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#FFEB3B"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+    <ImageView
+        android:layout_width="138dp"
+        android:layout_height="86dp"
+        app:srcCompat="@drawable/ic_baseline_fastfood_24"/>
+
+    <Space android:layout_width="match_parent"
+        android:layout_height="8dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="David Satria Pradana"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#000000" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mie Instan"
+        android:textColor="#000000" />
+</LinearLayout>
